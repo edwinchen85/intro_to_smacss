@@ -552,3 +552,11 @@ blockquote cite {
 .stumbleupon {
   background: transparent url(../img/social/stumbleupon.png) 0 0 no-repeat;
 }
+/* Contact Info */
+.contact-info {
+  margin-left: 1.5em;
+}
+.contact-info p {
+  margin: 0;
+  font-size: 18px;
+}
