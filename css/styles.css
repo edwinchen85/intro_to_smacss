@@ -523,3 +523,29 @@ blockquote cite {
 #main-footer p {
   margin: 0;
 }
+/**
+ * ----------------------------------------------------------------------------
+ * Module Styles
+ * ----------------------------------------------------------------------------
+ */
+/* Social Media */
+.social-media a {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+}
+.facebook {
+  background: transparent url(../img/social/facebook.png) 0 0 no-repeat;
+}
+.twitter {
+  background: transparent url(../img/social/twitter.png) 0 0 no-repeat;
+}
+.delicious {
+  background: transparent url(../img/social/delicious.png) 0 0 no-repeat;
+}
+.digg {
+  background: transparent url(../img/social/digg.png) 0 0 no-repeat;
+}
+.stumbleupon {
+  background: transparent url(../img/social/stumbleupon.png) 0 0 no-repeat;
+}
