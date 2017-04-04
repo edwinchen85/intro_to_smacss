@@ -604,3 +604,21 @@ hr {
   background: transparent url(../img/horizontalSeparator.jpg) center center no-repeat;
   border: none;
 }
+/* Testimonials */
+.bordered-box-header {
+  padding: 1.5em;
+  background-color: #eff1f3;
+}
+.bordered-box-header p {
+  margin: 0;
+  font-weight: bold;
+}
+/* Forms */
+.custom-form input[type="text"],
+.custom-form input[type="email"],
+.custom-form textarea {
+  padding: .75em;
+  border: 1px solid;
+  border-radius: 5px;
+  outline: none;
+}
