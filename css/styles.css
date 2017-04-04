@@ -504,3 +504,19 @@ blockquote cite {
   margin-left: 3em;
   width: 500px;
 }
+/* Header */
+#main-header {
+  padding: 1.5em 0;
+  background-color: #f7f9f9;
+  border-bottom: 1px solid #d1d8dc;
+  box-shadow: 0 1px 0 #f3f5f6;
+}
+/* Footer */
+#main-footer {
+  padding: 1.5em;
+  background-color: #eff1f3;
+  border-top: 1px solid #d1dbdc;
+}
+#main-footer p {
+  margin: 0;
+}
