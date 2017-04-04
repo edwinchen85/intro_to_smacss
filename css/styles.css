@@ -582,3 +582,18 @@ blockquote cite {
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
 }
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: .75em 1.5em;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.primary {
+  font-size: 18px;
+}
+.secondary {
+  border: 1px solid;
+}
