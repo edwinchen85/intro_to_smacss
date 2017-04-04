@@ -597,3 +597,10 @@ blockquote cite {
 .secondary {
   border: 1px solid;
 }
+/* HR */
+hr {
+  height: 55px;
+  margin-top: 3em;
+  background: transparent url(../img/horizontalSeparator.jpg) center center no-repeat;
+  border: none;
+}
