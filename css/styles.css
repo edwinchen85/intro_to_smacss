@@ -514,6 +514,9 @@ blockquote cite {
   border-bottom: 1px solid #d1d8dc;
   box-shadow: 0 1px 0 #f3f5f6;
 }
+#main-header #social-top {
+  margin-top: .75em;
+}
 /* Footer */
 #main-footer {
   padding: 1.5em;
